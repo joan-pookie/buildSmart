@@ -2,7 +2,8 @@
 
 BuildSmart CLI is a command-line interface application designed to help manage construction projects efficiently. It allows you to manage **clients, workers, projects, and project assignments** in a simple and structured way using **Python**, **SQLAlchemy**, and **Click**, with data stored in an **SQLite** database.
 
----
+project demonstration 
+             https://youtu.be/v8HRyrurdV0
 
 ## Table of Contents
 
